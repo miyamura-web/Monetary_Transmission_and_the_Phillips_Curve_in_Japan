@@ -12,3 +12,24 @@ This project provides an econometric and theoretical analysis of Japan’s macro
 - To illustrate macroeconomic relationships using IS–LM and AD–AS curve plots.
 
 ---
+
+## 📂 Repository Structure
+
+```
+├── datasets/
+│   ├── 1. Unemployment Data.csv
+│   ├── 2.  csv
+│   ├── 3.  csv
+├── SQL File/
+│   ├── 1. Unemployment Data.csv
+├── Python File/
+│   ├── 1. ipynb
+│   ├── 2. ipynb
+├── visuals/
+│   ├── correlation_heatmap.png
+│   ├── roc_curve.png
+├── Report_Writing_trial.pdf   [ A detailed report on the project ]
+└── README.md
+
+```
+
