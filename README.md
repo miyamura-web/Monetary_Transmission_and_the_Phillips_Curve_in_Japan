@@ -35,3 +35,4 @@ This project provides an econometric and theoretical analysis of Japan’s macro
 └── README.md
 ```
 
+## 🎯 Objectives
