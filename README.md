@@ -26,10 +26,10 @@ This project provides an econometric and theoretical analysis of Japan’s macro
 ├── SQL File/
 │   ├── 1. Data Pre-processing.sql 
 ├── Python File/
-│   ├── 1. ipynb
-│   ├── 2. ipynb
-│   ├── 3. ipynb
-│   ├── 4. ipynb
+│   ├── 1. Scrapping data.ipynb
+│   ├── 2. Philips Curve.ipynb
+│   ├── 3. Consumption Function.ipynb
+│   ├── 4. Japan's GDP Forecasting.ipynb
 ├── Report_Writing_trial.pdf   [ A detailed report on the project ]
 ├── Summary.pdf                [ A short summary of the full project ]
 └── README.md
