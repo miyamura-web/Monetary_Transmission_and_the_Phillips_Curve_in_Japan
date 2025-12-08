@@ -46,11 +46,14 @@ This project attempts to empirically diagnose these anomalies using data-driven 
 ## 📊 Modeling Framework
 
 - Consumption Function (Log–Log OLS)
-  lnC=α+βlnY+γr+ϵ
+
+   lnC=α+βlnY+γr+ϵ
 - Phillips Curve Estimation
-  πt​=α+βut−1​+γrt−1​+ϵ
+
+   πt​=α+βut−1​+γrt−1​+ϵ
 - GDP Forecasting using ARIMA
-	ARIMA(0,1,0)​
+
+  ARIMA(0,1,0)​
 
 ​
 
