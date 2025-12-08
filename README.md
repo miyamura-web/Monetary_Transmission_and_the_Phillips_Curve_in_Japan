@@ -9,6 +9,7 @@ Japan is a unique macroeconomic case where:
 - GDP growth is stagnant, showing little cyclical fluctuation.
 - The Phillips Curve has collapsed, showing no inflation–unemployment trade-off.
 - Consumption behaviour remains stable, driven strongly by income.
+  
 This project attempts to empirically diagnose these anomalies using data-driven evidence.
 
 ## 🎯 Objectives
@@ -42,4 +43,14 @@ This project attempts to empirically diagnose these anomalies using data-driven 
 └── README.md
 ```
 
+## 📊 Modeling Framework
+
+- Consumption Function (Log–Log OLS)
+  lnC=α+βlnY+γr+ϵ
+- Phillips Curve Estimation
+  πt​=α+βut−1​+γrt−1​+ϵ
+- GDP Forecasting using ARIMA
+	ARIMA(0,1,0)​
+
+​
 
