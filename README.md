@@ -45,20 +45,20 @@ This project attempts to empirically diagnose these anomalies using data-driven 
 
 ## 📊 Modeling Framework
 
-- Consumption Function (Log–Log OLS)
+#### Consumption Function (Log–Log OLS)
 
   [lnC=α+βlnY+γr+ϵ]
   
   <img width="692" height="475" alt="Screenshot 2025-12-22 223128" src="https://github.com/user-attachments/assets/7bfe7586-3286-4398-8a0e-3f1e2d0d04af" />
 
-- Phillips Curve Estimation
+#### Phillips Curve Estimation
 
   [πt​=α+βut−1​+γrt−1​+ϵ]
   
 <img width="700" height="245" alt="Screenshot 2025-12-22 223107" src="https://github.com/user-attachments/assets/82e58425-2f7a-4545-a4cf-712568e03236" />
 
   
-- GDP Forecasting using ARIMA
+#### GDP Forecasting using ARIMA
 
   [ARIMA(0,1,0)]
   ​
