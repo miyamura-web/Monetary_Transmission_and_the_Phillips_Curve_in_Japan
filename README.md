@@ -120,4 +120,3 @@ preventing inflation from rising.
 - Persistent policy commitment
   
 ## Conclusion
-The project demonstrates that Japan’s macroeconomic performance is shaped by deep structural factors rather than short-term shocks. The Phillips Curve does not hold, monetary policy has limited influence, and aggregate demand remains persistently weak. IS–LM and AD–AS analyses support the view that Japan is in a liquidity-trap-like condition with limited policy effectiveness.
