@@ -64,9 +64,12 @@ This project attempts to empirically diagnose these anomalies using data-driven 
   ​
 <img width="706" height="436" alt="Screenshot 2025-12-22 223151" src="https://github.com/user-attachments/assets/f42e273c-afa1-4612-b6a0-0b535ae23e55" />
 
+---
 
 ## 📌 Report 
 Please see the attach file "Report on Project Japan.pdf" for the full details of the project and detailed analysis.
+
+---
 
 ## 📊 Key Findings
 ### GDP Trends
@@ -91,6 +94,8 @@ Please see the attach file "Report on Project Japan.pdf" for the full details of
 - Weak domestic demand
 - Global competition and import pricing
 - AD and AS curves are flat → explains low inflation equilibrium.
+
+---
 
 ## 🏛️ Policy Recommendations
 
@@ -118,6 +123,8 @@ preventing inflation from rising.
 ✔ Improve Inflation Expectations
 - Coordinated fiscal–monetary communication
 - Persistent policy commitment
+
+---
   
 ## Conclusion
 The project demonstrates that Japan’s macroeconomic performance is shaped by deep structural factors rather than short-term shocks. The Phillips Curve does not hold, monetary policy has limited influence, and aggregate demand remains persistently weak. IS–LM and AD–AS analyses support the view that Japan is in a liquidity-trap-like condition with limited policy effectiveness.
