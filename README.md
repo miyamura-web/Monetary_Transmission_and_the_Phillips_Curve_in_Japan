@@ -61,7 +61,7 @@ This project attempts to empirically diagnose these anomalies using data-driven 
 #### GDP Forecasting using ARIMA
 
   [ARIMA(0,1,0)]
-  ​
+  
 <img width="706" height="436" alt="Screenshot 2025-12-22 223151" src="https://github.com/user-attachments/assets/f42e273c-afa1-4612-b6a0-0b535ae23e55" />
 
 ---
