@@ -47,17 +47,56 @@ This project attempts to empirically diagnose these anomalies using data-driven 
 
 - Consumption Function (Log–Log OLS)
 
-   lnC=α+βlnY+γr+ϵ
+  [lnC=α+βlnY+γr+ϵ]
+  
+  <img width="692" height="475" alt="Screenshot 2025-12-22 223128" src="https://github.com/user-attachments/assets/7bfe7586-3286-4398-8a0e-3f1e2d0d04af" />
+
 - Phillips Curve Estimation
 
-   πt​=α+βut−1​+γrt−1​+ϵ
+  [πt​=α+βut−1​+γrt−1​+ϵ]
+  
+<img width="700" height="245" alt="Screenshot 2025-12-22 223107" src="https://github.com/user-attachments/assets/82e58425-2f7a-4545-a4cf-712568e03236" />
+
+  
 - GDP Forecasting using ARIMA
 
-  ARIMA(0,1,0)​
+  [ARIMA(0,1,0)]
+  ​
+<img width="706" height="436" alt="Screenshot 2025-12-22 223151" src="https://github.com/user-attachments/assets/f42e273c-afa1-4612-b6a0-0b535ae23e55" />
+
+
+## 📌 Report 
+Please see the attach file "Report on Project Japan.pdf" for the full details of the project and detailed analysis.
+
+## 📊 Key Findings
+### GDP Trends
+- GDP growth remains modest with signs of stagnation.
+- Forecast shows slow recovery with wide uncertainty bands.
+
+### Consumption Behaviour
+- Consumption strongly correlates with income (R² ≈ 0.77).
+- MPC is positive and economically meaningful.
+
+### Phillips Curve Breakdown
+- No statistically significant negative relationship between unemployment and inflation.
+- Confirms decades of Japan’s flat Phillips Curve.
+
+### Monetary Policy Ineffectiveness
+- ZIRP and deflation expectations weaken transmission.
+- LM curve appears vertical, consistent with liquidity trap conditions.
+
+### Structural Challenges
+- Aging population
+- High savings–investment gap
+- Weak domestic demand
+- Global competition and import pricing
+- AD and AS curves are flat → explains low inflation equilibrium.
 
 ## 🏛️ Policy Recommendations
+
 ✔ Strengthen Fiscal Policy
-- Because consumption → income-driven (R² = 0.77), fiscal expansion has large effects.
+1. Increase Govt. Spending, 2. Lower consumption tax, 3. Direct cash transfer or 
+vouchers, basically, encouraging spending, 4.  Force companies to pay higher wages.
 
 ✔ Use Unconventional Monetary Tools
 - Yield Curve Control
@@ -69,13 +108,16 @@ This project attempts to empirically diagnose these anomalies using data-driven 
 - Immigration reform
 - Productivity-enhancing investment
 
-✔ Long-Term Growth Strategy
-- Digital transformation
-- High-tech & green sectors
-- R&D incentives
+✔ Decrease investments in Abroad
+- Only households holding excess money do not 
+cause Japan’s liquidity trap. A major factor is that Japanese corporations invest 
+heavily overseas rather than domestically. This reduces domestic investment and 
+weakens aggregate demand. As a result, domestic output and wages grow very slowly, 
+preventing inflation from rising.
 
 ✔ Improve Inflation Expectations
 - Coordinated fiscal–monetary communication
 - Persistent policy commitment
   
-## Key contributions 
+## Conclusion
+The project demonstrates that Japan’s macroeconomic performance is shaped by deep structural factors rather than short-term shocks. The Phillips Curve does not hold, monetary policy has limited influence, and aggregate demand remains persistently weak. IS–LM and AD–AS analyses support the view that Japan is in a liquidity-trap-like condition with limited policy effectiveness.
